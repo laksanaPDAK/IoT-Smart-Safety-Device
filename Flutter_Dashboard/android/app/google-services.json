@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225332721096",
+    "firebase_url": "https://smart-safety-device-dc5d1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smart-safety-device-dc5d1",
+    "storage_bucket": "smart-safety-device-dc5d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225332721096:android:dd9815ef9ff4ec95853cfd",
+        "android_client_info": {
+          "package_name": "com.example.smart_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDl6Vv09YhijRwPUQqRxhOSnNffl8mtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
