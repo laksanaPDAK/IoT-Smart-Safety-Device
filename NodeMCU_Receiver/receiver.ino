@@ -40,23 +40,23 @@
 
 
 
-#define WIFI_SSID       "Laksana"
+#define WIFI_SSID       
 
-#define WIFI_PASSWORD   "laks1927"
-
-
-
-#define API_KEY         "AIzaSyCKVZIgK41p2PW-ZanoVfb0IigJ4XMDmq8"
+#define WIFI_PASSWORD   
 
 
 
-#define USER_EMAIL      "laksanaashokkumar84@gmail.com"
-
-#define USER_PASSWORD   "laks1927laks"
+#define API_KEY        
 
 
 
-#define DATABASE_URL    "https://smart-safety-device-dc5d1-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define USER_EMAIL      
+
+#define USER_PASSWORD   
+
+
+
+#define DATABASE_URL   
 
 
 
